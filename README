@@ -1,0 +1,6 @@
+My code does not work I have not finished it yet,
+ the encode method itself doesn't work and currently gives an error.
+ I have gotten an extension from Mr.Theiss and am going to fix it by either
+ Monday or Tuesday. 
+ If you want more info about how it's broken, there is an issue with index out of
+ bounds and problems with encoding the few last characters of the input
