@@ -1,4 +1,5 @@
 Code now works as it should, it creates 2 files
 1st File is "output.dat" and has our compression as a binary string
 2nd File is "byteOutput.txt" and has our compression as bytes as characters
+I am encoding with 12 bits
 I am not completely sure whether the outputted bytes are correct but I have no reason to think it isn't
