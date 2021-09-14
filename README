@@ -1,6 +1,4 @@
-My code does not work I have not finished it yet,
- the encode method itself doesn't work and currently gives an error.
- I have gotten an extension from Mr.Theiss and am going to fix it by either
- Monday or Tuesday. 
- If you want more info about how it's broken, there is an issue with index out of
- bounds and problems with encoding the few last characters of the input
+Code now works as it should, it creates 2 files
+1st File is "output.dat" and has our compression as a binary string
+2nd File is "byteOutput.txt" and has our compression as bytes as characters
+I am not completely sure whether the outputted bytes are correct but I have no reason to think it isn't
