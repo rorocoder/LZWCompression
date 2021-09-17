@@ -76,7 +76,7 @@ public class Encoder {
 		
 		
 		this.bitToByte(); //makes our binary file into a file of bytes called byteOutput.txt
-
+		reader.close();
 		
 		return output;
 	}
